@@ -345,17 +345,6 @@ zwn-skill/
 
 MIT — 随便用，随便改，随便蒸馏。
 
----
-
-## 关于作者
-
-**花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
-
-| 平台 | 链接 |
-|------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
-| 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-
 <div align="center">
 
 *跟着我，你能听明白。*
